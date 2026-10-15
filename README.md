@@ -1,205 +1,186 @@
-```markdown
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    STARK INDUSTRIES // J.A.R.V.I.S.            -->
-<!--              CLEARANCE: LEVEL 7 // EYES ONLY                   -->
+<!--                    JANARDHAN S // SYNTHWAVE PROFILE           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=160&section=header&text=J.A.R.V.I.S.&fontSize=64&fontColor=39FF14&fontAlignY=40&desc=JUST%20A%20RATHER%20VERY%20INTELLIGENT%20SYSTEM&descAlignY=62&descSize=14&descColor=39FF14&animation=twinkling" width="100%"/>
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  > SYSTEM BOOT SEQUENCE INITIATED...                        ║
-║  > OPERATOR: JANARDHAN S // CALLSIGN: JANARDHANS56          ║
-║  > LOCATION: MANGALURU, INDIA                               ║
-║  > STATUS: [ ████████████████████ ] ONLINE                   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-[![Profile Views](https://komarev.com/ghpvc/?username=JanardhanS56&label=UPLINK+COUNT&color=39FF14&style=for-the-badge)](https://github.com/JanardhanS56)
-
+  <!-- AVATAR -->
+  <img src="https://github.com/JanardhanS56.png" width="140" style="border-radius: 50%; border: 3px solid #FF007F; box-shadow: 0 0 15px #FF007F;" alt="Janardhan S" />
+  
+  <br/><br/>
+  
+  <!-- NAME & SUBTITLE -->
+  <h1 style="color: #FF007F; font-family: 'Courier New', monospace;">Janardhan S</h1>
+  <h3 style="color: #00FFFF; font-family: 'Courier New', monospace;">Software Developer • Backend & Web Systems • Algorithmic Thinker</h3>
+  
+  <!-- SOCIAL LINKS -->
+  <a href="https://github.com/JanardhanS56"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF007F" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF007F" alt="Email" /></a>
+  
+  <br/><br/>
+  
+  <!-- TYPING SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=Hello+World!;System+Online...;Ready+to+Build." alt="Typing SVG" />
+  
+  <br/><br/>
+  
+  <!-- VIEWS COUNTER -->
+  <img src="https://komarev.com/ghpvc/?username=JanardhanS56&label=UPLINK+COUNT&color=FF007F&style=for-the-badge" alt="Views" />
 </div>
 
----
-
-## `> PRIMARY_DIRECTIVES`
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  FUNCTION      Software Developer                           │
-│  SPECIALTY     Web Systems • Backend Engineering            │
-│               Algorithms • Automation                       │
-│  PROTOCOL      Clean Code • Well-Tested • Maintainable      │
-│  CURRENT       Building • Open-Source • Mentoring           │
-│  AVAILABLE     New Challenges • Collaborations • Mentorship │
-└─────────────────────────────────────────────────────────────┘
-```
-
-I turn ideas into **reliable, maintainable products**. I focus on **web and backend systems**, enjoy tackling **algorithmic challenges**, and take pride in writing **clean, well-tested code**. I learn new technologies constantly, contribute to open-source when I can, and thrive on collaborative projects that combine **engineering, data, and automation** to deliver real value.
-
----
-
-## `> DEPLOYED_MODULES`
-
-> *Active Stark Industries projects. All systems operational.*
-
-### ◈ PREDICT-CART — Recommendation Workbench
-
-```
-STATUS   [ ████████████████████ ] DEPLOYED
-STACK    Python • FastAPI • NVIDIA Kumo • TailwindCSS
-```
-
-Full-stack graph ML demonstration for real-time **"Next Best Offer"** product recommendations. Ingests six relational e-commerce tables, builds per-user ego-graphs, posts to the **NVIDIA Kumo Relational API**, and serves predictions through a FastAPI backend to a premium SPA.
-
-[![Repo](https://img.shields.io/badge/PREDICT--CART-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/JanardhanS56/Predict-Cart)
-
----
-
-### ◈ SDIT-CHATBOT — Campus AI Assistant
-
-```
-STATUS   [ ████████████████████ ] DEPLOYED
-STACK    Next.js • FastAPI • Supabase • OpenAI-Compatible LLMs
-```
-
-AI campus assistant for **Shree Devi Institute of Technology**. Combines a Next.js chat interface with a **FastAPI RAG backend**, Supabase knowledge storage, and source-grounded answers with similarity scores. Features student/faculty/visitor modes, complaint submission, and a safe local crawler.
-
-[![Repo](https://img.shields.io/badge/SDIT--CHATBOT-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/JanardhanS56/sdit-chatbot)
-
----
-
-### ◈ RUNWAY-V2 — Financial Cockpit
-
-```
-STATUS   [ ████████████████████ ] DEPLOYED
-STACK    TypeScript • React • Vite
-```
-
-A **30-day personal finance cockpit** for students, freelancers, and early-career professionals. Features a live **Cockpit** with daily allowance, 30-day runway scrubber, risk gauge, and an interactive **Decision Lab** simulator that models financial decisions before you commit.
-
-[![Repo](https://img.shields.io/badge/RUNWAY--V2-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/JanardhanS56/runway-v2)
-
----
-
-### ◈ 2048-GAME — Core Systems Test
-
-```
-STATUS   [ ████████████████████ ] DEPLOYED
-STACK    Python • OOP • Data Structures
-```
-
-Python implementation of the classic **2048 puzzle**. Demonstrates core programming concepts: game logic, data structures, state management, and user input handling. Interactive 4×4 board with score tracking and win/lose detection.
-
-[![Repo](https://img.shields.io/badge/2048--GAME-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/JanardhanS56/2048-GAME)
-
----
-
-### ◈ STUDENT-ATTENDANCE-APP — AttendTrack
-
-```
-STATUS   [ ████████████████████ ] DEPLOYED
-STACK    HTML5 • CSS3 • Vanilla JavaScript • LocalStorage
-```
-
-Lightweight web app for **tracking student attendance** and managing curriculum activities. Subject management, attendance percentage calculation, activity logs, and **localStorage persistence** — no server required.
-
-[![Repo](https://img.shields.io/badge/ATTEND--TRACK-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/JanardhanS56/student-attendance-app)
-
----
-
-### ◈ HABIT-IQ — Intelligence Platform
-
-```
-STATUS   [ ████████████████████ ] DEPLOYED
-STACK    JavaScript • Chart.js • Encryption • Heatmap
-```
-
-Smart habit tracking platform with **data-driven insights**. Features habit logging, analytics, streak counter, smart reminders, progress dashboard, habit categories, and data export.
-
-[![Repo](https://img.shields.io/badge/HABIT--IQ-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/JanardhanS56/Habit-IQ)
-
----
-
-## `> TECHNICAL_ARSENAL`
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  LANGUAGES     C • JavaScript • TypeScript • Python         │
-│               Scala • Markdown • PowerShell                 │
-│  FRONTEND      React • Next.js • TailwindCSS • Vite         │
-│  BACKEND       Node.js • Express • FastAPI • Flask • JWT    │
-│  DATABASES     PostgreSQL • MySQL • MongoDB • Supabase      │
-│  DATA/ML       NumPy • Pandas • scikit-learn • Matplotlib    │
-│  TOOLS         Git • GitHub Actions • Vitest • Figma         │
-└─────────────────────────────────────────────────────────────┘
-```
-
 <br/>
+
+<!-- ═══════════════════════════ WHOAMI ═══════════════════════════════ -->
 
 <div align="center">
-
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=39FF14)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=39FF14)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
-![Scala](https://img.shields.io/badge/Scala-000000?style=for-the-badge&logo=scala&logoColor=39FF14)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=39FF14)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=39FF14)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=39FF14)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=39FF14)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=39FF14)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
-
+  <h3 style="color: #00FFFF; font-family: 'Courier New', monospace;">whoami</h3>
+  
+  <p align="left" style="color: #C9D1D9; max-width: 800px; margin: 0 auto; line-height: 1.6;">
+    I'm Janardhan — a software developer passionate about turning ideas into <b>reliable, maintainable products</b>. I focus on <b>web and backend systems</b>, enjoy tackling <b>algorithmic challenges</b>, and take pride in writing <b>clean, well-tested code</b>. I'm always learning new technologies, contribute to open-source when I can, and thrive on collaborative projects that combine <b>engineering, data, and automation</b> to deliver real value. Open to new challenges, mentoring, and project collaborations.
+  </p>
 </div>
 
----
-
-## `> SYSTEM_DIAGNOSTICS`
-
 <br/>
+
+<!-- ═══════════════════════════ TECH STACK ══════════════════════════ -->
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.shion.dev/api?username=JanardhanS56&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=39FF14&text_color=A8FFB0&icon_color=39FF14&border_color=39FF14"/>
-
-<img height="160em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JanardhanS56&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=39FF14&text_color=A8FFB0&border_color=39FF14"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=JanardhanS56&hide_border=true&background=000000&border=39FF14&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakNum=39FF14&currStreakLabel=39FF14&sideNums=A8FFB0&sideLabels=A8FFB0&dates=6B8F6B"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JanardhanS56&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true&custom_title=UPLINK%20ACTIVITY"/>
-
+  <h3 style="color: #00FFFF; font-family: 'Courier New', monospace;">tech_stack</h3>
+  
+  <!-- LANGUAGES -->
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Scala-000000?style=for-the-badge&logo=scala&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=FF007F" />
+  
+  <br/><br/>
+  
+  <!-- FRONTEND -->
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FF007F" />
+  
+  <br/><br/>
+  
+  <!-- BACKEND & DATABASES -->
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00FFFF" />
+  
+  <br/><br/>
+  
+  <!-- TOOLS & DATA -->
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=vitest&logoColor=00FFFF" />
 </div>
 
----
-
-## `> ESTABLISH_CONNECTION`
-
 <br/>
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════════ -->
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/JanardhanS56)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](#)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](#)
+  <h3 style="color: #00FFFF; font-family: 'Courier New', monospace;">system_diagnostics</h3>
+  
+  <!-- ACTIVITY GRAPH -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JanardhanS56&bg_color=0D1117&color=FF007F&line=FF007F&point=00FFFF&area=true&hide_border=true" width="100%" />
+  
+  <br/><br/>
+  
+  <!-- GITHUB STATS & TOP LANGUAGES -->
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=JanardhanS56&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF007F&text_color=C9D1D9&icon_color=FF007F" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JanardhanS56&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF007F&text_color=C9D1D9" />
+  
+  <br/><br/>
+  
+  <!-- STREAK STATS -->
+  <img src="https://streak-stats.demolab.com/?user=JanardhanS56&hide_border=true&background=0D1117&border=FF007F&stroke=FF007F&ring=FF007F&fire=FF007F&currStreakNum=00FFFF&currStreakLabel=FF007F&sideNums=C9D1D9&sideLabels=C9D1D9&dates=6B8F6B" />
+</div>
 
 <br/>
 
-```
-> TRANSMISSION COMPLETE. STANDING BY...
-```
+<!-- ═══════════════════════════ PROJECTS ════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:000000&height=100&section=footer"/>
-
+<div align="center">
+  <h3 style="color: #00FFFF; font-family: 'Courier New', monospace;">deployed_modules</h3>
+  
+  <table align="center" width="100%" style="border: none;">
+    <tr>
+      <td align="left" width="50%" style="border: none; padding: 10px;">
+        <h4 style="color: #FF007F;">◈ Predict-Cart</h4>
+        <p style="color: #C9D1D9; font-size: 14px;">Full-stack graph ML demo for real-time "Next Best Offer" product recommendations.</p>
+        <code style="color: #00FFFF;">Python</code> <code style="color: #00FFFF;">FastAPI</code>
+        <br/><br/>
+        <a href="https://github.com/JanardhanS56/Predict-Cart"><img src="https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=FF007F" /></a>
+      </td>
+      <td align="left" width="50%" style="border: none; padding: 10px;">
+        <h4 style="color: #FF007F;">◈ SDIT-Chatbot</h4>
+        <p style="color: #C9D1D9; font-size: 14px;">AI campus assistant for Shree Devi Institute of Technology with RAG backend.</p>
+        <code style="color: #00FFFF;">Next.js</code> <code style="color: #00FFFF;">FastAPI</code>
+        <br/><br/>
+        <a href="https://github.com/JanardhanS56/sdit-chatbot"><img src="https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=FF007F" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="50%" style="border: none; padding: 10px;">
+        <h4 style="color: #FF007F;">◈ Runway-V2</h4>
+        <p style="color: #C9D1D9; font-size: 14px;">30-day personal finance cockpit with live daily allowance and simulator.</p>
+        <code style="color: #00FFFF;">TypeScript</code> <code style="color: #00FFFF;">React</code>
+        <br/><br/>
+        <a href="https://github.com/JanardhanS56/runway-v2"><img src="https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=FF007F" /></a>
+      </td>
+      <td align="left" width="50%" style="border: none; padding: 10px;">
+        <h4 style="color: #FF007F;">◈ 2048-Game</h4>
+        <p style="color: #C9D1D9; font-size: 14px;">Python implementation of the classic 2048 puzzle with OOP and data structures.</p>
+        <code style="color: #00FFFF;">Python</code> <code style="color: #00FFFF;">OOP</code>
+        <br/><br/>
+        <a href="https://github.com/JanardhanS56/2048-GAME"><img src="https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=FF007F" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="50%" style="border: none; padding: 10px;">
+        <h4 style="color: #FF007F;">◈ Student-Attendance-App</h4>
+        <p style="color: #C9D1D9; font-size: 14px;">Lightweight web app for tracking student attendance and curriculum activities.</p>
+        <code style="color: #00FFFF;">HTML5</code> <code style="color: #00FFFF;">JavaScript</code>
+        <br/><br/>
+        <a href="https://github.com/JanardhanS56/student-attendance-app"><img src="https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=FF007F" /></a>
+      </td>
+      <td align="left" width="50%" style="border: none; padding: 10px;">
+        <h4 style="color: #FF007F;">◈ Habit-IQ</h4>
+        <p style="color: #C9D1D9; font-size: 14px;">Smart habit tracking platform with data-driven insights and heatmaps.</p>
+        <code style="color: #00FFFF;">JavaScript</code> <code style="color: #00FFFF;">Chart.js</code>
+        <br/><br/>
+        <a href="https://github.com/JanardhanS56/Habit-IQ"><img src="https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=FF007F" /></a>
+      </td>
+    </tr>
+  </table>
 </div>
-```
+
+<br/>
+
+<!-- ═══════════════════════════ CONNECT ═════════════════════════════ -->
+
+<div align="center">
+  <h3 style="color: #00FFFF; font-family: 'Courier New', monospace;">Let's build something.</h3>
+  
+  <a href="https://github.com/JanardhanS56"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF007F" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF007F" /></a>
+  
+  <br/><br/>
+  
+  <p style="color: #00FFFF; font-family: 'Courier New', monospace;">> TRANSMISSION COMPLETE. STANDING BY...</p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,100:0D1117&height=100&section=footer" />
+</div>
