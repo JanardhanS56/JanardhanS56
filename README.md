@@ -1,116 +1,175 @@
-
 ```markdown
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                        NEON GREEN PROFILE README                       -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    STARK INDUSTRIES // J.A.R.V.I.S.            -->
+<!--              CLEARANCE: LEVEL 7 // EYES ONLY                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=200&section=header&text=JANARDHAN&fontSize=72&fontColor=39FF14&fontAlignY=35&desc=Software%20Developer&descAlignY=58&descSize=20&descColor=39FF14&animation=twinkling" width="100%"/>
-
-<a href="https://github.com/JanardhanS56">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+Turning+ideas+into+reliable+products;%3E+Web+%26+Backend+Systems;%3E+Clean%2C+well-tested+code;%3E+Open+to+collaborations+%26+mentoring" alt="Typing SVG"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=JanardhanS56&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge" alt="views"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=160&section=header&text=J.A.R.V.I.S.&fontSize=64&fontColor=39FF14&fontAlignY=40&desc=JUST%20A%20RATHER%20VERY%20INTELLIGENT%20SYSTEM&descAlignY=62&descSize=14&descColor=39FF14&animation=twinkling" width="100%"/>
 
 <br/>
 
-<!-- ═══════════════════════════ ABOUT ME ═══════════════════════════════ -->
-
-<div align="center">
-
-## `> whoami`
-
-</div>
-
-```yaml
-name:        Janardhan
-role:        Software Developer
-focus:       [ Web Systems, Backend Engineering, Algorithms, Automation ]
-philosophy:  Clean code • Well-tested • Maintainable • Always learning
-currently:   Building, contributing to open-source, mentoring
-open_to:     New challenges • Collaborations • Mentorship
+```
+╔══════════════════════════════════════════════════════════════╗
+║  > SYSTEM BOOT SEQUENCE INITIATED...                        ║
+║  > OPERATOR: JANARDHAN S // CALLSIGN: JANARDHANS56          ║
+║  > LOCATION: MANGALURU, INDIA                               ║
+║  > STATUS: [ ████████████████████ ] ONLINE                   ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-I'm a software developer passionate about turning ideas into **reliable, maintainable products**. I focus on building **web and backend systems**, enjoy tackling **algorithmic challenges**, and take pride in writing **clean, well-tested code**. I'm always learning new technologies, contribute to open-source when I can, and thrive on collaborative projects that combine **engineering, data, and automation** to deliver real value.
+[![Profile Views](https://komarev.com/ghpvc/?username=JanardhanS56&label=UPLINK+COUNT&color=39FF14&style=for-the-badge)](https://github.com/JanardhanS56)
+
+</div>
+
+---
+
+## `> PRIMARY_DIRECTIVES`
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  FUNCTION      Software Developer                           │
+│  SPECIALTY     Web Systems • Backend Engineering            │
+│               Algorithms • Automation                       │
+│  PROTOCOL      Clean Code • Well-Tested • Maintainable      │
+│  CURRENT       Building • Open-Source • Mentoring           │
+│  AVAILABLE     New Challenges • Collaborations • Mentorship │
+└─────────────────────────────────────────────────────────────┘
+```
+
+I turn ideas into **reliable, maintainable products**. I focus on **web and backend systems**, enjoy tackling **algorithmic challenges**, and take pride in writing **clean, well-tested code**. I learn new technologies constantly, contribute to open-source when I can, and thrive on collaborative projects that combine **engineering, data, and automation** to deliver real value.
+
+---
+
+## `> DEPLOYED_MODULES`
+
+> *Active Stark Industries projects. All systems operational.*
+
+### ◈ PREDICT-CART — Recommendation Workbench
+
+```
+STATUS   [ ████████████████████ ] DEPLOYED
+STACK    Python • FastAPI • NVIDIA Kumo • TailwindCSS
+```
+
+Full-stack graph ML demonstration for real-time **"Next Best Offer"** product recommendations. Ingests six relational e-commerce tables, builds per-user ego-graphs, posts to the **NVIDIA Kumo Relational API**, and serves predictions through a FastAPI backend to a premium SPA.
+
+[![Repo](https://img.shields.io/badge/PREDICT--CART-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/JanardhanS56/Predict-Cart)
+
+---
+
+### ◈ SDIT-CHATBOT — Campus AI Assistant
+
+```
+STATUS   [ ████████████████████ ] DEPLOYED
+STACK    Next.js • FastAPI • Supabase • OpenAI-Compatible LLMs
+```
+
+AI campus assistant for **Shree Devi Institute of Technology**. Combines a Next.js chat interface with a **FastAPI RAG backend**, Supabase knowledge storage, and source-grounded answers with similarity scores. Features student/faculty/visitor modes, complaint submission, and a safe local crawler.
+
+[![Repo](https://img.shields.io/badge/SDIT--CHATBOT-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/JanardhanS56/sdit-chatbot)
+
+---
+
+### ◈ RUNWAY-V2 — Financial Cockpit
+
+```
+STATUS   [ ████████████████████ ] DEPLOYED
+STACK    TypeScript • React • Vite
+```
+
+A **30-day personal finance cockpit** for students, freelancers, and early-career professionals. Features a live **Cockpit** with daily allowance, 30-day runway scrubber, risk gauge, and an interactive **Decision Lab** simulator that models financial decisions before you commit.
+
+[![Repo](https://img.shields.io/badge/RUNWAY--V2-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/JanardhanS56/runway-v2)
+
+---
+
+### ◈ 2048-GAME — Core Systems Test
+
+```
+STATUS   [ ████████████████████ ] DEPLOYED
+STACK    Python • OOP • Data Structures
+```
+
+Python implementation of the classic **2048 puzzle**. Demonstrates core programming concepts: game logic, data structures, state management, and user input handling. Interactive 4×4 board with score tracking and win/lose detection.
+
+[![Repo](https://img.shields.io/badge/2048--GAME-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/JanardhanS56/2048-GAME)
+
+---
+
+### ◈ STUDENT-ATTENDANCE-APP — AttendTrack
+
+```
+STATUS   [ ████████████████████ ] DEPLOYED
+STACK    HTML5 • CSS3 • Vanilla JavaScript • LocalStorage
+```
+
+Lightweight web app for **tracking student attendance** and managing curriculum activities. Subject management, attendance percentage calculation, activity logs, and **localStorage persistence** — no server required.
+
+[![Repo](https://img.shields.io/badge/ATTEND--TRACK-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/JanardhanS56/student-attendance-app)
+
+---
+
+### ◈ HABIT-IQ — Intelligence Platform
+
+```
+STATUS   [ ████████████████████ ] DEPLOYED
+STACK    JavaScript • Chart.js • Encryption • Heatmap
+```
+
+Smart habit tracking platform with **data-driven insights**. Features habit logging, analytics, streak counter, smart reminders, progress dashboard, habit categories, and data export.
+
+[![Repo](https://img.shields.io/badge/HABIT--IQ-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/JanardhanS56/Habit-IQ)
+
+---
+
+## `> TECHNICAL_ARSENAL`
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  LANGUAGES     C • JavaScript • TypeScript • Python         │
+│               Scala • Markdown • PowerShell                 │
+│  FRONTEND      React • Next.js • TailwindCSS • Vite         │
+│  BACKEND       Node.js • Express • FastAPI • Flask • JWT    │
+│  DATABASES     PostgreSQL • MySQL • MongoDB • Supabase      │
+│  DATA/ML       NumPy • Pandas • scikit-learn • Matplotlib    │
+│  TOOLS         Git • GitHub Actions • Vitest • Figma         │
+└─────────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
-<!-- ═════════════════════════ TECH STACK ═══════════════════════════════ -->
-
 <div align="center">
-
-## `> tech_stack`
-
-### ◈ Languages
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=39FF14)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=39FF14)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
 ![Scala](https://img.shields.io/badge/Scala-000000?style=for-the-badge&logo=scala&logoColor=39FF14)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=39FF14)
-![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=39FF14)
-
-### ◈ Frontend
-
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=39FF14)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=39FF14)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=39FF14)
-![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=39FF14)
-
-### ◈ Backend & Runtime
-
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=39FF14)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=39FF14)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=39FF14)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=39FF14)
-![NPM](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=39FF14)
-
-### ◈ Databases & Cloud
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=39FF14)
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=39FF14)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=39FF14)
-
-### ◈ Data & ML
-
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=39FF14)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=39FF14)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=39FF14)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=39FF14)
-![Anaconda](https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=39FF14)
-![CUDA](https://img.shields.io/badge/NVIDIA-000000?style=for-the-badge&logo=nvidia&logoColor=39FF14)
-
-### ◈ Tools & Design
-
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=39FF14)
-![Vitest](https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=vitest&logoColor=39FF14)
-![Windows Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=39FF14)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=39FF14)
-![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobe-illustrator&logoColor=39FF14)
-![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=39FF14)
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════ STATS ══════════════════════════════════ -->
+## `> SYSTEM_DIAGNOSTICS`
+
+<br/>
 
 <div align="center">
 
-## `> git_stats`
+<img height="160em" src="https://github-readme-stats.shion.dev/api?username=JanardhanS56&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=39FF14&text_color=A8FFB0&icon_color=39FF14&border_color=39FF14"/>
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=JanardhanS56&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=39FF14&text_color=A8FFB0&icon_color=39FF14&border_color=39FF14"/>
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JanardhanS56&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=39FF14&text_color=A8FFB0&border_color=39FF14"/>
+<img height="160em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JanardhanS56&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=39FF14&text_color=A8FFB0&border_color=39FF14"/>
 
 <br/>
 
@@ -118,45 +177,17 @@ I'm a software developer passionate about turning ideas into **reliable, maintai
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JanardhanS56&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JanardhanS56&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true&custom_title=UPLINK%20ACTIVITY"/>
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════ TROPHIES ═══════════════════════════════ -->
-
-<div align="center">
-
-## `> trophies`
-
-<img src="https://github-profile-trophy.vercel.app/?username=JanardhanS56&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
+## `> ESTABLISH_CONNECTION`
 
 <br/>
 
-<!-- ═══════════════════════════ SNAKE ══════════════════════════════════ -->
-
 <div align="center">
-
-## `> contribution_snake`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JanardhanS56/JanardhanS56/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JanardhanS56/JanardhanS56/output/github-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/JanardhanS56/JanardhanS56/output/github-snake-dark.svg"/>
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════ CONNECT ════════════════════════════════ -->
-
-<div align="center">
-
-## `> connect`
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/JanardhanS56)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](#)
@@ -164,7 +195,11 @@ I'm a software developer passionate about turning ideas into **reliable, maintai
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:000000&height=120&section=footer"/>
+```
+> TRANSMISSION COMPLETE. STANDING BY...
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:000000&height=100&section=footer"/>
 
 </div>
 ```
