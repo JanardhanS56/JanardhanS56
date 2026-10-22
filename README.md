@@ -36,7 +36,7 @@
   <h3 style="color: #00FFFF; font-family: 'Courier New', monospace;">Who Am I?</h3>
   
   <p align="left" style="color: #C9D1D9; max-width: 800px; margin: 0 auto; line-height: 1.6;">
-    I'm Janardhan — a software developer passionate about turning ideas into <b>reliable, maintainable products</b>. I focus on <b>web and backend systems</b>, enjoy tackling <b>algorithmic challenges</b>, and take pride in writing <b>clean, well-tested code</b>. Open to new challenges, mentoring, and project collaborations.
+    Yo! I'm Janardhan — a software developer passionate about turning ideas into <b>reliable, maintainable products</b>. I focus on <b>web and backend systems</b>, enjoy tackling <b>algorithmic challenges</b>, and take pride in writing <b>clean, well-tested code</b>. Open to new challenges, mentoring, and project collaborations.
   </p>
 </div>
 
