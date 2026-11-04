@@ -14,7 +14,7 @@
   
   <!-- SOCIAL LINKS -->
   <a href="https://github.com/JanardhanS56"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF007F" alt="GitHub" /></a>
-  <a href="www.linkedin.com/in/janardhan-s-ambekar"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn" /></a>
+  <a href="[www.linkedin.com/in/janardhan-s-ambekar](https://www.linkedin.com/in/janardhan-s-ambekar)"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn" /></a>
   <a href="janardhans2416@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF007F" alt="Email" /></a>
   
   <br/><br/>
