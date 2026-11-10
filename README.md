@@ -27,8 +27,15 @@
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=300&pause=150&color=00FF41&background=000000&center=true&vCenter=true&width=650&lines=Loading+%5B++++++++++++++++++++%5D+0%25;Loading+%5B0101++++++++++++++++%5D+20%25;Loading+%5B0101010101++++++++++%5D+50%25;Loading+%5B0101010101010101++++%5D+80%25;Loading+%5B01010101010101010101%5D+100%25;Yo!+Stalking+me+huh%3F&repeat=false" alt="Loading Binary" />
-  <br/><br/>
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=300&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=650&lines=Loading+%5B++++++++++++++++++++%5D+0%25;Loading+%5B0101++++++++++++++++%5D+20%25;Loading+%5B0101010101++++++++++%5D+50%25;Loading+%5B0101010101010101++++%5D+80%25;Loading+%5B01010101010101010101%5D+100%25;%3E+whoami&repeat=false" alt="Loading Binary" />
+  
+  <br/>
+  
+  <code> Backend and Web Systems Developer</code><br/>
+  <code> Algorithmic Thinker | Clean Code Advocate</code><br/>
+  <code> Open to Challenges and Collaborations</code>
+</div>
 
   <img src="https://komarev.com/ghpvc/?username=JanardhanS56&label=UPLINK+COUNT&color=00FF41&style=for-the-badge" alt="Profile views" />
 
