@@ -1,120 +1,152 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    JANARDHAN S // SYNTHWAVE PROFILE           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              JANARDHAN S // TERMINAL PROFILE               -->
+<!--                    THEME: 00FF41 / 000000                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <!-- AVATAR -->
-  <img src="https://github.com/JanardhanS56.png" width="140" style="border-radius: 50%; border: 3px solid #FF007F; box-shadow: 0 0 15px #FF007F;" alt="Janardhan S" />
-  
+
+  <img src="https://github.com/JanardhanS56.png" width="140" alt="Janardhan S" />
+
   <br/><br/>
-  
-  <!-- NAME & SUBTITLE -->
-  <h1 style="color: #FF007F; font-family: 'Courier New', monospace;">Janardhan S</h1>
-  <h3 style="color: #00FFFF; font-family: 'Courier New', monospace;">Software Developer • Backend & Web Systems • Algorithmic Thinker</h3>
-  
-  <!-- SOCIAL LINKS -->
-  <a href="https://github.com/JanardhanS56"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF007F" alt="GitHub" /></a>
-  <a href="[www.linkedin.com/in/janardhan-s-ambekar](https://www.linkedin.com/in/janardhan-s-ambekar)"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn" /></a>
-  <a href="janardhans2416@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF007F" alt="Email" /></a>
-  
+
+  <h1>Janardhan S</h1>
+  <h3>Software Developer • Backend &amp; Web Systems • Algorithmic Thinker</h3>
+
+  <br/>
+
+  <a href="https://github.com/JanardhanS56">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/janardhan-s-ambekar">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
+  </a>
+  <a href="mailto:janardhans2416@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" />
+  </a>
+
   <br/><br/>
-  
-  <!-- TYPING SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=Hello+World!;System+Online...;Ready+to+Build." alt="Typing SVG" />
-  
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Hello+World!;System+Online...;Access+Granted.;Ready+to+Build." alt="Typing SVG" />
+
   <br/><br/>
-  
-  <!-- VIEWS COUNTER -->
-  <img src="https://komarev.com/ghpvc/?username=JanardhanS56&label=UPLINK+COUNT&color=FF007F&style=for-the-badge" alt="Views" />
+
+  <img src="https://komarev.com/ghpvc/?username=JanardhanS56&label=UPLINK+COUNT&color=00FF41&style=for-the-badge" alt="Profile views" />
+
 </div>
 
 <br/>
+
+---
 
 <!-- ═══════════════════════════ WHO AM I? ════════════════════════════ -->
 
-<div align="center">
-  <h3 style="color: #00FFFF; font-family: 'Courier New', monospace;">Who Am I?</h3>
-  
-  <p align="left" style="color: #C9D1D9; max-width: 800px; margin: 0 auto; line-height: 1.6;">
-    Yo! I'm Janardhan — a software developer passionate about turning ideas into <b>reliable, maintainable products</b>. I focus on <b>web and backend systems</b>, enjoy tackling <b>algorithmic challenges</b>, and take pride in writing <b>clean, well-tested code</b>. Open to new challenges, mentoring, and project collaborations.
-  </p>
-</div>
+<h3 align="center">$ whoami</h3>
+
+```bash
+$ cat about.txt
+
+  name    : Janardhan S
+  role    : Software Developer
+  focus   : Web & Backend Systems, Algorithms
+  creed   : reliable • maintainable • well-tested
+  status  : open to challenges, mentoring & collaborations
+```
+
+Yo! I'm Janardhan — a software developer passionate about turning ideas into **reliable, maintainable products**. I focus on **web and backend systems**, enjoy tackling **algorithmic challenges**, and take pride in writing **clean, well-tested code**. Open to new challenges, mentoring, and project collaborations.
 
 <br/>
+
+---
 
 <!-- ═══════════════════════════ TECH STACK ══════════════════════════ -->
 
+<h3 align="center">$ ls ./tech_stack</h3>
+
 <div align="center">
-  <h3 style="color: #00FFFF; font-family: 'Courier New', monospace;">tech_stack</h3>
-  
-  <!-- LANGUAGES -->
-  <div style="margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FF007F" />
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFFF" />
-    <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF007F" />
-    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF" />
-    <img src="https://img.shields.io/badge/Scala-000000?style=for-the-badge&logo=scala&logoColor=FF007F" />
-    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=00FFFF" />
-    <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=FF007F" />
-  </div>
-  
-  <!-- FRONTEND & BACKEND -->
-  <div style="margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFFF" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF007F" />
-    <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FFFF" />
-    <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FF007F" />
-    <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FFFF" />
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FF007F" />
-    <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FFFF" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FF007F" />
-  </div>
-  
-  <!-- DATABASES & TOOLS -->
-  <div>
-    <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FFFF" />
-    <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FF007F" />
-    <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00FFFF" />
-    <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FF007F" />
-    <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FFFF" />
-    <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=FF007F" />
-    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFFF" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=FF007F" />
-    <img src="https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=vitest&logoColor=00FFFF" />
-  </div>
+
+  **Languages**
+
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Scala-000000?style=for-the-badge&logo=scala&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=00FF41" />
+
+  **Frontend & Backend**
+
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FF41" />
+
+  **Data & Tooling**
+
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=vitest&logoColor=00FF41" />
+
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════ STATS ═══════════════════════════════ -->
+---
+
+<!-- ═══════════════════════════ DIAGNOSTICS ═════════════════════════ -->
+
+<h3 align="center">$ system_diagnostics</h3>
 
 <div align="center">
-  <h3 style="color: #00FFFF; font-family: 'Courier New', monospace;">system_diagnostics</h3>
-  
-  <!-- ACTIVITY GRAPH -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JanardhanS56&bg_color=0D1117&color=FF007F&line=FF007F&point=00FFFF&area=true&hide_border=true" width="100%" />
-  
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JanardhanS56&bg_color=000000&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41&hide_border=true&title_color=00FF41" width="100%" alt="Activity graph" />
+
   <br/><br/>
-  
-  <!-- GITHUB STATS & TOP LANGUAGES -->
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=JanardhanS56&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF007F&text_color=C9D1D9&icon_color=FF007F" />
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JanardhanS56&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF007F&text_color=C9D1D9" />
+
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=JanardhanS56&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41" alt="GitHub stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JanardhanS56&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9" alt="Top languages" />
+
 </div>
 
 <br/>
+
+---
 
 <!-- ═══════════════════════════ CONNECT ═════════════════════════════ -->
 
+<h3 align="center">$ ./connect --with janardhan</h3>
+
 <div align="center">
-  <h3 style="color: #00FFFF; font-family: 'Courier New', monospace;">Let's build something.</h3>
-  
-  <a href="https://github.com/JanardhanS56"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF007F" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF007F" /></a>
-  
+
+  <a href="https://github.com/JanardhanS56">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/janardhan-s-ambekar">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
+  </a>
+  <a href="mailto:janardhans2416@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" />
+  </a>
+
   <br/><br/>
-  
-  <p style="color: #00FFFF; font-family: 'Courier New', monospace;">> TRANSMISSION COMPLETE. STANDING BY...</p>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,100:0D1117&height=100&section=footer" />
+
+  ```bash
+  $ echo "Let's build something."
+  Let's build something.
+  $ █
+  ```
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=100&section=footer" />
+
 </div>
