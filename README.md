@@ -27,8 +27,7 @@
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Hello+World!;System+Online...;Access+Granted.;Ready+to+Build." alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=300&pause=150&color=00FF41&background=000000&center=true&vCenter=true&width=650&lines=Loading+%5B++++++++++++++++++++%5D+0%25;Loading+%5B0101++++++++++++++++%5D+20%25;Loading+%5B0101010101++++++++++%5D+50%25;Loading+%5B0101010101010101++++%5D+80%25;Loading+%5B01010101010101010101%5D+100%25;Yo!+Stalking+me+huh%3F&repeat=false" alt="Loading Binary" />
   <br/><br/>
 
   <img src="https://komarev.com/ghpvc/?username=JanardhanS56&label=UPLINK+COUNT&color=00FF41&style=for-the-badge" alt="Profile views" />
@@ -88,11 +87,7 @@
 <h3 align="center">$ system_diagnostics</h3>
 
 <div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JanardhanS56&bg_color=000000&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41&hide_border=true&title_color=00FF41" width="100%" alt="Activity graph" />
-
   <br/><br/>
-
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=JanardhanS56&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41" alt="GitHub stats" />
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JanardhanS56&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9" alt="Top languages" />
 
@@ -121,9 +116,7 @@
   <br/><br/>
 
   ```bash
-  $ echo "Let's build something."
-  Let's build something.
-  $ █
+  01000010 01100101 00100000 01100011 01110010 01100101 01100001 01110100 01101001 01110110 01100101 00101100 00100000 01000010 01100101 00100000 01100100 01100101 01101100 01110101 01110011 01101001 01101111 01101110 01100001 01101100
   ```
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=100&section=footer" />
