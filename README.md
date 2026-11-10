@@ -38,27 +38,6 @@
 <br/>
 
 ---
-
-<!-- ═══════════════════════════ WHO AM I? ════════════════════════════ -->
-
-<h3 align="center">$ whoami</h3>
-
-```bash
-$ cat about.txt
-
-  name    : Janardhan S
-  role    : Software Developer
-  focus   : Web & Backend Systems, Algorithms
-  creed   : reliable • maintainable • well-tested
-  status  : open to challenges, mentoring & collaborations
-```
-
-Yo! I'm Janardhan — a software developer passionate about turning ideas into **reliable, maintainable products**. I focus on **web and backend systems**, enjoy tackling **algorithmic challenges**, and take pride in writing **clean, well-tested code**. Open to new challenges, mentoring, and project collaborations.
-
-<br/>
-
----
-
 <!-- ═══════════════════════════ TECH STACK ══════════════════════════ -->
 
 <h3 align="center">$ ls ./tech_stack</h3>
