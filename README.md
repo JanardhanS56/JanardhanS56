@@ -5,9 +5,6 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-  <img src="https://github.com/JanardhanS56.png" width="140" alt="Janardhan S" />
-
   <br/><br/>
 
   <h1>Janardhan S</h1>
